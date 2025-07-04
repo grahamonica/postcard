@@ -5,7 +5,7 @@ from PIL import (Image, ImageDraw, ImageFont, ImageOps)
 
 # ────────── CONFIG ───────────────────────────────────────────────────────────
 INPUT_FILE        = Path("boxwork.png")
-OUTPUT_FILE       = Path("boxwork_postcard.tif")
+OUTPUT_FILE       = Path("boxwork.tif")
 
 # postcard geometry
 DPI               = 300

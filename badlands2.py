@@ -25,9 +25,9 @@ FONT_PATH         = "/Users/monicagraham/Downloads/Fonts/VenturaRegular.otf"
 
 # gradient shadow (drawn only inside the photo area, not over the border)
 ADD_SHADOW          = True            # toggle shadow on/off
-SHADOW_COLOR        = (51, 68, 45)       # base colour of shadow
-SHADOW_OPACITY      = 1          # 0‑1 darkest opacity at bottom edge
-SHADOW_HEIGHT_FRAC  = 0.45            # fraction of inner‑photo height
+SHADOW_COLOR        = (71, 86, 76)       # base colour of shadow
+SHADOW_OPACITY      = .65          # 0‑1 darkest opacity at bottom edge
+SHADOW_HEIGHT_FRAC  = 0.5            # fraction of inner‑photo height
 
 # caption drop shadow
 TEXT_SHADOW         = True
